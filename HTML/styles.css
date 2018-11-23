@@ -19,3 +19,33 @@ font-family:"oskoola Pota";
 }
 
 
+table. th. td {
+
+border: 1px solid black;
+
+}
+
+table {
+
+with:100%;
+}
+
+th{
+
+height: 50px;
+
+}
+
+th{
+
+text-align: left;
+
+}
+
+table{
+
+background-colour: green;
+
+}
+
+
